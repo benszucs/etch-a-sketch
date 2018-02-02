@@ -1,0 +1,64 @@
+body {
+  background-color: #BDC8AB;
+}
+
+.container {
+  position: relative;
+  background-color: white;
+  height: 500px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  outline: 20px solid #68717E;
+}
+
+.square {
+  display: inline-block;
+}
+
+.row {
+  width: 100%;
+  display: block;
+}
+
+h1  {
+  font-family: 'Sedgwick Ave Display', cursive;
+  text-align: center;
+  font-size: 32px;
+  color: #3E3139;
+}
+
+button {
+  font-family: 'Rock Salt', cursive;
+  color: #3E3139;
+
+}
+
+.wrapper {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #AFC7A8;
+}
+
+.header {
+  position: relative;
+  margin: 40px auto;
+  width: 200px;
+}
+
+
+
+.buttons {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  width: 500px;
+}
+
+button {
+  text-align: center;
+  display: inline-block;
+  margin-left: 18px;
+}
